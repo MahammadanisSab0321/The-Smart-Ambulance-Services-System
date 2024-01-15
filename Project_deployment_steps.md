@@ -1,4 +1,4 @@
-### Aarogya Ambulance Booking Service ``aarogya_v1.2``
+###  Ambulance Booking Service 
 
 # Run the Application Locally
 
@@ -19,7 +19,7 @@
 - Server version: 5.6.26
 - PHP Version: 5.5.28
 
-### Extract this -> [aarogya_v1.2.zip](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2.zip)
+### Extract this -> sourcecode file
 
 ### _Steps_
 
@@ -39,7 +39,7 @@
  
 7.Create a database: `aarogya_v1.2_db`
 
-8.Import file: [aarogya_v1.2_db.sql](https://github.com/MehaRima/aarogya_v1.2/blob/master/aarogya_v1.2_db.sql) in the Import section of the database created.
+8.Import file
 
 9.Save 
 
@@ -60,7 +60,5 @@
 
 
 
-### Sincerely
 
-### _SAHELI BASU_ !
 
